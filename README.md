@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/gargigupta1509" target="blank"><img src="https://img.shields.io/twitter/follow/gargigupta1509?logo=twitter&style=for-the-badge" alt="gargigupta1509" /></a> </p>
 
-- 🔭 I’m currently working on **Edtech project**
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **Email me at gargigupta09122003@gmail.com**
